@@ -25,6 +25,6 @@ A versão do motor disponibilizada aqui no repositório já atende os objetivos 
 
 O objetivo de trazer o motor aqui para este repositório é ter uma versão do motor desacoplada da disciplina de Programação de Jogos e poder assim evoluí-lo com mais liberdade. A intensão é trazer as mudanças primeiro aqui. Se elas forem mudanças que não impactam negativamente com os objetivos inicias do motor, levá-las para dentro da disciplina. Isso permitirá também que outras pessoas possam contribuir com o desenvolvimento do motor. Sugestões e melhorias para o código serão bem-vindas.
 
-## Sobre o nome
+## Sobre o Nome
 
 Para os curiosos, o nome Night foi inspirado em como eu gosto de usar temas escuros nos meu materiais e apresentações, uma homenagem a minha gatinha que gosta de ficar caçando a noite, e também uma referência a Nightwolf, meu personagem favorito em Mortal Kombat.
