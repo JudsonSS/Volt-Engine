@@ -11,7 +11,7 @@ Night é um motor de jogos 2D que foi construído primariamente para atender a d
 
 ## Desenvolvimento
 
-A versão do motor disponibilizada aqui no repositório já antende os objetivos estabelecidos acima e consiste na versão final do motor que é ativamente utilizada no meu curso de Programação de Jogos (disponível em www.youtube.com/JudSan). Ele consiste de um motor 2D completo acompanhado de vários exemplos de jogos (listados abaixo). A maior parte dos jogos não estão completos porque as implementações funcionam como exercícios para os alunos, fica a cargo deles completar as implementações para ter jogos completos. Os exemplos fornecidos juntos com o motor são:
+A versão do motor disponibilizada aqui no repositório já atende os objetivos estabelecidos acima e consiste na versão final do motor que é ativamente utilizada no meu curso de Programação de Jogos (disponível em www.youtube.com/JudSan). Ele consiste de um motor 2D completo acompanhado de vários exemplos de jogos (listados abaixo). A maior parte dos jogos não estão completos porque as implementações funcionam como exercícios para os alunos, fica a cargo deles completar as implementações para ter jogos completos. Os exemplos fornecidos juntos com o motor são:
  
 - Asteroids
 - Ballons
@@ -25,6 +25,6 @@ A versão do motor disponibilizada aqui no repositório já antende os objetivos
 
 O objetivo de trazer o motor aqui para este repositório é ter uma versão do motor desacoplada da disciplina de Programação de Jogos e poder assim evoluí-lo com mais liberdade. A intensão é trazer as mudanças primeiro aqui. Se elas forem mudanças que não impactam negativamente com os objetivos inicias do motor, levá-las para dentro da disciplina. Isso permitirá também que outras pessoas possam contribuir com o desenvolvimento do motor. Sugestões e melhorias para o código serão bem-vindas.
 
-## Sobre o nome
+## Sobre o Nome
 
 Para os curiosos, o nome Night foi inspirado em como eu gosto de usar temas escuros nos meu materiais e apresentações, uma homenagem a minha gatinha que gosta de ficar caçando a noite, e também uma referência a Nightwolf, meu personagem favorito em Mortal Kombat.
