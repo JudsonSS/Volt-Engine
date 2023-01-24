@@ -11,7 +11,7 @@ Night é um motor de jogos 2D que foi construído primariamente para atender a d
 
 ## Desenvolvimento
 
-A versão do motor disponibilizada aqui no repositório já antende os objetivos estabelecidos acima e consiste na versão final do motor que é ativamente utilizada no meu curso de Programação de Jogos (disponível em www.youtube.com/JudSan). Ele consiste de um motor 2D completo acompanhado de vários exemplos de jogos (listados abaixo). A maior parte dos jogos não estão completos porque as implementações funcionam como exercícios para os alunos, fica a cargo deles completar as implementações para ter jogos completos. Os exemplos fornecidos juntos com o motor são:
+A versão do motor disponibilizada aqui no repositório já atende os objetivos estabelecidos acima e consiste na versão final do motor que é ativamente utilizada no meu curso de Programação de Jogos (disponível em www.youtube.com/JudSan). Ele consiste de um motor 2D completo acompanhado de vários exemplos de jogos (listados abaixo). A maior parte dos jogos não estão completos porque as implementações funcionam como exercícios para os alunos, fica a cargo deles completar as implementações para ter jogos completos. Os exemplos fornecidos juntos com o motor são:
  
 - Asteroids
 - Ballons
