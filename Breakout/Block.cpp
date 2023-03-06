@@ -45,7 +45,7 @@ void Block::Update()
     Translate(velX * gameTime, velY * gameTime);
 
     // destrói ao sair da janela
-    if (y > window->Height())
+    if (y - sprite->Height() / 2.0f > window->Height())
         Breakout::scene->Delete();
 }
 
