@@ -1,6 +1,6 @@
 # Luna Engine
 
-Luna é um motor de jogos 2D que surgiu primariamente para atender a dois propósitos:
+Luna2D é um motor de jogos que surgiu primariamente para atender a dois propósitos:
 
 - Base para pesquisas e inovação
 - Base para ensino
