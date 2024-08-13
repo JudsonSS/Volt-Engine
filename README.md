@@ -1,4 +1,4 @@
-# Volt Engine
+# Volt Game Engine
 
 Volt é um motor de jogos que surgiu primariamente para atender a dois propósitos:
 
