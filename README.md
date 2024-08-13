@@ -1,6 +1,6 @@
-# Luna Engine
+# Volt Game Engine
 
-Luna2D é um motor de jogos que surgiu primariamente para atender a dois propósitos:
+Volt é um motor de jogos que surgiu primariamente para atender a dois propósitos:
 
 - Base para pesquisas
 - Base para ensino
